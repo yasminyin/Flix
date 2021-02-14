@@ -89,11 +89,12 @@
             </objects>
             <point key="canvasLocation" x="1831.8840579710147" y="81.521739130434796"/>
         </scene>
-        <!--Item-->
+        <!--Home-->
         <scene sceneID="puN-Ji-dZf">
             <objects>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="09c-vP-JiH" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
                 <navigationController automaticallyAdjustsScrollViewInsets="NO" id="Niq-01-jc3" sceneMemberID="viewController">
-                    <tabBarItem key="tabBarItem" title="Item" id="tj3-Mn-r6h"/>
+                    <tabBarItem key="tabBarItem" title="Home" id="tj3-Mn-r6h"/>
                     <toolbarItems/>
                     <navigationBar key="navigationBar" contentMode="scaleToFill" id="TEo-xZ-UIQ">
                         <rect key="frame" x="0.0" y="0.0" width="320" height="44"/>
@@ -104,7 +105,6 @@
                         <segue destination="BYZ-38-t0r" kind="relationship" relationship="rootViewController" id="xaT-Wf-L8c"/>
                     </connections>
                 </navigationController>
-                <placeholder placeholderIdentifier="IBFirstResponder" id="09c-vP-JiH" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
             <point key="canvasLocation" x="928.98550724637687" y="87.723214285714278"/>
         </scene>
