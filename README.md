@@ -39,4 +39,4 @@ Describe any challenges encountered while building the app.
 <img src="walkthrough_1.gif" width='' />
 
 ### Notes
-Describe any challenges encountered while building the app.
+How to pass the trailer video key to vc
